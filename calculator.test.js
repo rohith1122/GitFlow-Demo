@@ -5,5 +5,10 @@ describe('Calculator Tests', () => {
         const result = calc.add(3,4)
         expect(result).toEqual(7);
       });
+      test('Subtract 2 from 10  should give 8', () => {
+        const result = calc.subtract(10,2)
+        expect(result).toEqual(8);
+});
+
       
 })
