@@ -1,0 +1,23 @@
+{
+  "name": "GitFlow-Demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohith1122/GitFlow-Demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohith1122/GitFlow-Demo/issues"
+  },
+  "homepage": "https://github.com/rohith1122/GitFlow-Demo#readme",
+  "dependencies": {
+    "jest": "^26.0.1"
+  }
+}
